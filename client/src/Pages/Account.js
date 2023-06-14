@@ -5,40 +5,7 @@ import { Link } from 'react-router-dom'
 
 const Login = () => {
   return (
-  //   <div className='flex w-screen flex-row'>
   
-  //   {/* need to make responsive */}
-
-  //   <div className='flex-1 h-screen ml-[-1rem] bg-sky-200 rounded-l-2xl flex items-center justify-center'>
-  //     <div className='flex flex-col my-auto'>
-  //       <div className='w-full text-center py-8'>
-  //         <p className='font-abc text-4xl  font-semibold'> Choose Your Account Type </p>
-  //       </div>
-  //       <div className='flex w-full justify-center gap-20 px-10 lg:flex-row mx-auto flex-col '>
-  //          <Link to='/admcode'> 
-
-  //         <div className=''>
-  //                 <Card
-  //                  img={group1}
-  //                  title="Admin" 
-  //                  button="Continue as Admin" />
-  //         </div>
-  //          </Link> 
-  //         <Link to='/userlog'> 
-  //         <div className=''>
-  //                 <Card
-  //                  img={group1} 
-  //                  title="User"
-  //                  button="Continue as User" /> 
-  //         </div>  
-  //         </Link>         
-        
-  //       </div>
-  //     </div>
-  //   </div>
-  // </div>
-
-  ///new
       
 <section class="bg-cover bg-no-repeat bg-[url('https://www.vertexplus.com/global/en/images/productive.jpg')] bg-gray-700 bg-blend-multiply">
     <div class="px-4 mx-auto max-w-screen-xl flex flex-col justify-center items-center text-center py-24 lg:py-56">
